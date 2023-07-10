@@ -3,7 +3,7 @@ pragma solidity >=0.7.0 <0.9.0;
 import "@openzeppelin/contracts/token/ERC20/ERC20.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 import "@openzeppelin/contracts/utils/Counters.sol";
-import "./ChekkenNFT.sol";  // Import the ChekkenNFT contract
+import "https://github.com/milkie-eth/chekken/blob/37f5beb22b7e5f1b003861c80924e8e721db7442/contracts/nft.sol";  // Import the ChekkenNFT contract
 
 contract NFTBattle is Ownable {
     using Counters for Counters.Counter;
