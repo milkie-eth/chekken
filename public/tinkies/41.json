@@ -1,0 +1,45 @@
+{
+    "name": "41",
+    "image": "41.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Plumage",
+            "value": "Grey"
+        },
+        {
+            "trait_type": "Beak / Feet",
+            "value": "Orange"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Gold"
+        },
+        {
+            "trait_type": "Comb",
+            "value": "Hot Pink"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Knives"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Rusty Wing"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Combat"
+        }
+    ],
+    "collectionName": "tinkies",
+    "description": "tinkies",
+    "compiler": "NFT Generator for Figma, https://www.figma.com/community/plugin/1052280914006102970"
+}

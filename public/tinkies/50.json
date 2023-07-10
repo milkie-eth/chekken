@@ -1,0 +1,45 @@
+{
+    "name": "50",
+    "image": "50.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Red"
+        },
+        {
+            "trait_type": "Plumage",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Beak / Feet",
+            "value": "Yellow"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Green"
+        },
+        {
+            "trait_type": "Comb",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Accessory",
+            "value": "Nothing"
+        },
+        {
+            "trait_type": "Headwear",
+            "value": "Samurai"
+        },
+        {
+            "trait_type": "Wing",
+            "value": "Splint"
+        },
+        {
+            "trait_type": "Shoes",
+            "value": "Robot"
+        }
+    ],
+    "collectionName": "tinkies",
+    "description": "tinkies",
+    "compiler": "NFT Generator for Figma, https://www.figma.com/community/plugin/1052280914006102970"
+}
