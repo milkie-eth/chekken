@@ -1,6 +1,6 @@
 {
     "name": "4",
-    "image": "4.png",
+    "image": "https://chekken.vercel.app/tinkies/4.png",
     "attributes": [
         {
             "trait_type": "Background",
@@ -37,6 +37,18 @@
         {
             "trait_type": "Shoes",
             "value": "Combat"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "17"
+        },
+        {
+            "trait_type": "Stamina",
+            "value": "13"
+        },
+        {
+            "trait_type": "Dodge",
+            "value": "3"
         }
     ],
     "collectionName": "tinkies",
