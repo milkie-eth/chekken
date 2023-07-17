@@ -37,6 +37,18 @@
         {
             "trait_type": "Shoes",
             "value": "Suave"
+        },
+        {
+            "trait_type": "Strength",
+            "value": "17"
+        },
+        {
+            "trait_type": "Stamina",
+            "value": "13"
+        },
+        {
+            "trait_type": "Dodge",
+            "value": "3"
         }
     ],
     "collectionName": "tinkies",
