@@ -1,6 +1,6 @@
 {
     "name": "9",
-    "image": "9.png",
+    "image": "https://chekken.vercel.app/tinkies/9.png",
     "attributes": [
         {
             "trait_type": "Background",
